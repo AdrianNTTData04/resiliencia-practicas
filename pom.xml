@@ -32,7 +32,7 @@
     <nohttp-checkstyle.version>0.0.4.RELEASE</nohttp-checkstyle.version>
     <spring-format.version>0.0.25</spring-format.version>
     <!-- Updates -->
-    <logback.version>1.2.13</logback.version>
+    <logback.version>1.3.16</logback.version>
 
   </properties>
 
